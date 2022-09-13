@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-dark1{
+    background-color: rgb(29, 214, 214);
+    height: 7vh;
+}
+.note{
+    color: aliceblue;
+    margin-right: 30%;
+}
+.marg-e{
+    margin-right: -250px;
+    margin-top: 0px;
+}
+.navbar-brand {
+    padding-left: 400px;
+}
+.bg-light1{
+    background-color: rgb(215, 225, 226);
+}
+/* ------------------end header------------ */
+.deco{
+    padding: 100px;
+    text-align: left;
+}
+.bg-deco1{
+    background-color:  rgb(208, 226, 210);
+    
+}
+.sizeFont{
+    font-size: 130px;
+}
+/* -------------------------------- */
+/* ------------calcultor-mony---------------- */
+.calcultor-mony {
+    width: 100%;
+    height: 50vh;
+    background-color: #000;
+}
+.botton-style {
+    width: 250px;
+    height: 10vh;
+    border-radius: 20px;
+    background-color:cadetblue;
+    
+}
+.botton-style::placeholder{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+.botton-style-mony {
+    width: 450px;
+    border-radius: 30px;
+    height: 10vh;
+    background-color: darkgrey;
+}
+.botton-style-mony::placeholder{
+    text-align: center;
+    font-size: 25px;
+}
+/* ----------partner---------------- */
+.partner{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(174, 179, 174);
+}
+.page-item{
+    list-style-type: none;
+    
+}
+/* -----------barnches----- */
+.barnches{
+    width: 100%;
+    height: 85vh;
+}
+.img-yemen{
+    width: 885px;
+    height:530px ;
+}
+.deco2{
+    padding: 70px;
+    text-align: left;
+}
+/* -----footer--------- */
+.footer{
+    width: 100%;
+    height: 70vh;
+    background-color: #000;
+}
+.deco-footer{
+    color: aliceblue;
+    font-size: 25px;
+    text-align: right;
+}
+.fontsize{
+    font-size: 30px;
+}
